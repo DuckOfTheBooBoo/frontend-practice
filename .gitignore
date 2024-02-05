@@ -1,1 +1,4 @@
 node_modules
+
+# Tailwind
+output.css

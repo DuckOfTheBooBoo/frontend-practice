@@ -5,6 +5,10 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    colors: {
+      'abstract-blue': '#4C5FD5',
+      'abstract-grey': '#dadbf1'
+    }
   },
   plugins: [],
 }
